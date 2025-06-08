@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @ifaye23
 - 👀 I’m interested in Fullstack Developpement
-- 🌱 I’m currently learning Vue.JS and Django
+- 🌱 I’m currently learning React.JS and .NET Core
 - 💞️ I’m looking to collaborate on any project that could help me grow and help the community 
 - 📫 How to reach me : by email
-- 😄 Pronouns: He/him
 - ⚡ Fun fact: I'm making a podcast about personnal developpement 😃
 
 <!---
